@@ -3,6 +3,12 @@
 
 This is a simple implementation of python simple salesforce library to deploy salesforce custom fields and objects to desired instance for example sandbox
 
+## Requirements
+
+- This process is highly discouraged in production env
+- We need to elevate permission as shown in the snapshot
+- Need a Connected App in Salesforce
+
 ## Features
 
 - Read provided credentials
